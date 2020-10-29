@@ -1,6 +1,6 @@
 # fakerest
 
-Fake rest for use with My JSON Server:
+Fake rest repo for use with My JSON Server, to simulate REST calls:
 
 https://my-json-server.typicode.com/
 
